@@ -1,0 +1,5 @@
+/myenv
+/COPY of codes
+myenv/
+.env
+COPY of codes/
